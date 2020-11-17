@@ -1,0 +1,6 @@
+C:\Users\kali\Desktop\Antonio\C#\ComplejosLibreria\ComplejosLibreria\bin\Debug\ComplejosLibreria.dll
+C:\Users\kali\Desktop\Antonio\C#\ComplejosLibreria\ComplejosLibreria\bin\Debug\ComplejosLibreria.pdb
+C:\Users\kali\Desktop\Antonio\C#\ComplejosLibreria\ComplejosLibreria\obj\Debug\ComplejosLibreria.csprojAssemblyReference.cache
+C:\Users\kali\Desktop\Antonio\C#\ComplejosLibreria\ComplejosLibreria\obj\Debug\ComplejosLibreria.csproj.CoreCompileInputs.cache
+C:\Users\kali\Desktop\Antonio\C#\ComplejosLibreria\ComplejosLibreria\obj\Debug\ComplejosLibreria.dll
+C:\Users\kali\Desktop\Antonio\C#\ComplejosLibreria\ComplejosLibreria\obj\Debug\ComplejosLibreria.pdb
